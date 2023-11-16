@@ -1,0 +1,20 @@
+___ para lo cual utilizaremos librerias__
+    la primera de esta paguina 
+      https://cdnjs.com/libraries/font-awesome  
+
+      para utilizar se importa esta libreria 
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+   
+    la segunda de esta paguina 
+        https://swiperjs.com/get-started
+
+        para utilizar se importa esta libreria 
+            <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+            />
+
+        y tambien se utiliza el js 
+        <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+
